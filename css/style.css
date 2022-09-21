@@ -32,14 +32,13 @@ body {
 
 .container {
   max-width: 300px;
-  margin: 73px
-    auto;
+  margin: 190px
+    auto 0;
 }
 
 @media screen and (max-width: 600px) {
   .container {
-    margin: 0
-      auto;
+    margin: 190px auto 0;
   }
 }
 
@@ -60,7 +59,7 @@ main {
   border: 5px
     solid
     #d8dee9;
-  margin-top: 40px;
+  margin-top: -140px;
   margin-bottom: 10px;
 }
 
